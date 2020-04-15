@@ -4,7 +4,7 @@ Controllability and Observability of the system.<p>
 Determining the gain if the system has state-feedback based on a time costraint to stabalize.<p>
 Gain margin - point where the LTI system loses its asymptotic stability.<p>
 Designing a state-feedback and output-feedback system which follows a constant and variable command.<p>
-![align="center"](Images/Rotary%20inverted%20pendulum%20system.JPG)
+<p align="center">![](Images/Rotary%20inverted%20pendulum%20system.JPG)</p>
   
 In this project task, we focus on the command following problem for two types of systems.<p>
 
